@@ -62,5 +62,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="1842" height="822" alt="Screenshot 2025-09-09 194603" src="https://github.com/user-attachments/assets/bf484cb5-3af9-4cf9-9f8a-131b6cfb50d4" />
+
 ## Output
+<img width="1916" height="965" alt="Screenshot 2025-09-09 194503" src="https://github.com/user-attachments/assets/b643eae0-72ac-4200-855a-a23a5d84b5a6" />
+
 ## Result
+THUS,THE EXPERIMENT HAS BEEN SIMULATED AND THE OUTPUT IS VERIFIED BY USING MATLAB.
